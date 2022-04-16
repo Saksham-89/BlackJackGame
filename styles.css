@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500&display=swap");
+
+body{
+    background-image: url('https://evoplay.games/wp-content/uploads/2021/03/Oasis-Poker-Classic-bg.jpg');
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    color: goldenrod;
+    font-family: 'Big Shoulders Display', cursive;
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: 80px;
+}
+
+p{
+    font-size: 60px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: white;
+    text-align: center;
+    font-style: oblique;
+}
+
+p#message-el{
+    color: gold;
+}
+
+p#sum-el, p#name, #cards-el{
+    font-size: 40px;
+    font-style: normal;
+}
+
+
+
+button{
+    background-color: goldenrod;
+    font-size: xx-large;
+    width: 10em;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #213C09;
+    border: none;
+}
+
